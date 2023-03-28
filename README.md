@@ -5,7 +5,7 @@
 - :woman_technologist: I’m a data analyst (with a sales management background) who aspires to grow & transform business in an impactful way.
 - :woman_student: Recently graduated from Data Analytics from Ironhack Paris, I hope to put my skills into exploring unhidden potential of data in future projects, while continuing to hone the craft.
 - :mailbox_with_mail: Reachable, I am, at:  __thao.pham.ptt@gmail.com__
-- :dancer: Fun-Fact: I sing out-of-tune very naturally (bonus with mis-heard lyrics no less). Invite me to karaoke!
+- :dancer: Fun-Fact: I sing out-of-tune, very naturally (bonus with mis-heard lyrics no less). Invite me to karaoke!
 
 ### 🛠️ Languages & Tools
 <p align="left"> 
