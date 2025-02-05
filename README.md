@@ -2,7 +2,7 @@
 
 ### 🌿 About me
 
-- :woman_technologist: I’m a data analyst with 10+ years experience in business management who aspires to grow & transform business in an impactful way.
+- :woman_technologist: I’m a data analyst with experience in business management who aspires to grow & transform business in an impactful way.
 - :woman_student: I love to explore unhidden potential of data in future projects, while continuing to hone the craft.
 - :mailbox_with_mail: Reachable, I am, at:  __thao.pham.ptt@gmail.com__
 - :dancer: Fun-Fact: I sing out-of-tune, very naturally (bonus with mis-heard lyrics no less). Invite me to karaoke!
